@@ -1,5 +1,5 @@
 <h1 align="center">Hello & Welcome! 👋 </h1>
-<div style="padding=50%">
+<div style="padding-left: 50%; padding-right: 50%;">
 <h4 align="center" width="400px" >
 I'm Ibrar Hussain, a passionate developer obsessed with crafting beautiful and engaging mobile experiences with React Native. My journey doesn't stop there though - I'm actively honing my skills to become a full-stack master, tackling both front-end and back-end challenges with equal enthusiasm.</h4></div>
 
