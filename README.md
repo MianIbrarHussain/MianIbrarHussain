@@ -18,7 +18,8 @@ From the initial spark of an idea to the final pixel on the screen, I'm dedicate
 
 ## Ready to connect?
 
-Let's talk tech, collaborate on exciting projects, or simply geek out about the latest advancements in the world of coding. You can find me on [Social Media Links] or shoot me an email at [Your Email Address].
+Let's talk tech, collaborate on exciting projects, or simply geek out about the latest advancements in the world of coding. You can find me on
+
 <p align="left">
 <a href="https://www.linkedin.com/in/ibrar-hussain-950a23231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ashfaq224" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22873848/ibrar-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9690365" height="30" width="40" /></a>
