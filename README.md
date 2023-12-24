@@ -1,6 +1,7 @@
 <h1 align="center">Hello & Welcome! 👋 </h1>
+<div style="padding: 10px 20px;">
 <h4 align="center" width="400px" >
-I'm Ibrar Hussain, a passionate developer obsessed with crafting beautiful and engaging mobile experiences with React Native. My journey doesn't stop there though - I'm actively honing my skills to become a full-stack master, tackling both front-end and back-end challenges with equal enthusiasm.</h4>
+I'm Ibrar Hussain, a passionate developer obsessed with crafting beautiful and engaging mobile experiences with React Native. My journey doesn't stop there though - I'm actively honing my skills to become a full-stack master, tackling both front-end and back-end challenges with equal enthusiasm.</h4></div>
 
 Right now, my toolbox holds my favorite companions: React Native for building stunning UIs, Node.js and Express.js for robust server-side orchestration, and MongoDB for taming data chaos with elegance. But learning and growth are my constant companions, pushing me to explore new tools and methodologies every day.
 
