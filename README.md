@@ -7,8 +7,8 @@ Right now, my toolbox holds my favorite companions: React Native for building st
 
 <h3 align="left">What sets me apart?</h3>
 
-Meticulous Craftsmanship: I pour my heart into every line of code, ensuring pixel-perfect UIs and robust back-end logic.
-Passionate Problem Solver: Challenges excite me! I thrive on unraveling complex issues and delivering elegant solutions.
+Meticulous Craftsmanship: I pour my heart into every line of code, ensuring pixel-perfect UIs and robust back-end logic.\n
+Passionate Problem Solver: Challenges excite me! I thrive on unraveling complex issues and delivering elegant solutions.\n
 Collaboration Champion: I believe teamwork makes the dream work. Let's build something amazing together!
 
 <h3 align="left">Languages and Tools: </h3>
